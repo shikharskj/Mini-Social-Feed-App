@@ -33,7 +33,6 @@ Password: password123
 - ⚛️ React (w/ Functional Components + Hooks)
 - ⛑ TypeScript
 - 🖋 Tiptap Editor
-- 🧠 Zustand (if applicable)
 - 💅 Tailwind CSS
 - 📦 localStorage for persistent data
 
