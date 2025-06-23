@@ -41,7 +41,7 @@ Password: password123
 ## Feed UI: 
 
 <p align="start">
-  <img src="https://github.com/user-attachments/assets/c1cd2f77-cf84-42c0-8116-2ed13f1f8703" alt="Top Image" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c1cd2f77-cf84-42c0-8116-2ed13f1f8703" alt="Top Image" width="90%" />
 </p>
 
 
