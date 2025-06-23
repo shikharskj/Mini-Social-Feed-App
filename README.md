@@ -2,6 +2,13 @@
 
 A minimal social feed application built using **React**, **TypeScript**, **TailwindCSS**, and **Tiptap**. This app allows users to sign up, sign in, and post rich-text updates with emoji and profile picture support — all stored in the browser’s localStorage.
 
+
+# 🚀 **Live Demo:**  
+
+## 👉 [skj-mini-social-feed-app.netlify.app](https://skj-mini-social-feed-app.netlify.app/)
+
+
+
 # 🔑 Demo Credentials
 ### You can log in using:
 ```
